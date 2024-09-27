@@ -1,7 +1,7 @@
 
 [![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv)
 <h1 align="center">Hi 👋, I'm Quoc Gia Bao Nguyen (Baro)</h1>
-<h3 align="center">A Digital Craftsman (Data Analyst/Content Creator/Filmmaker from Vietnam</h3>
+<h3 align="center">A Digital Craftsman (Data Analyst/Content Creator/Filmmaker from Vietnam)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 👋 Hi, I'm Baro! <br/>
