@@ -5,7 +5,7 @@
 
 👋 Hi, I'm Baro! <br/>
 🧑🏻‍💻Business/Data Analyst sharing about my journey and learnings in tech <br/>
-👨‍🎓Studied [Business Data Analytics] at the Arizona State University, United States <br/>
+👨‍🎓Studied [Business Data Analytics] at the Arizona State University, USA <br/>
 💭 Currently learning about data analytics and Python at ASU <br/>
 
 
